@@ -2,6 +2,11 @@
 
 ## Instructions
 
+Read these links:
+
+- [CSS Box Model](https://www.internetingishard.com/html-and-css/css-box-model/)
+- [CSS Positioning](https://cssreference.io/positioning/)
+
 1. Fork this repository
 2. Create a `<div>` element in index.html file that has the following CSS properties.
 3. The CSS Stylings are to be implemented in ./css/style.css
