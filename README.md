@@ -1,32 +1,21 @@
-# CSS Box Model & Position Study
+[<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
+
+# CSS Box Model & Position: Study
+
+## Learning Objectives:
+By the end of this, you should know:
+- The basic CSS properties related to box modeling & positioning
+- The commonly used CSS selectors (class and id).
+
+By the end of this, you should be able to:
+- Import an external CSS files using `<link>` tag.
+- Exercise independence by referencing web links for CSS properties.
 
 ## Instructions
 
-Read these links:
-
-- [CSS Box Model](https://www.internetingishard.com/html-and-css/css-box-model/)
-- [CSS Positioning](https://cssreference.io/positioning/)
-
-1. Fork this repository
-2. Create a `<div>` element in index.html file that has the following CSS properties.
-3. The CSS Stylings are to be implemented in ./css/style.css
-4. Link index.html to to ./css/style.css
-
-## Part 1 - Single HTML Element
-
-CSS Properties to be implemented:
-
-- use a css selector `.div1`
-- margin to be 10px
-- border to be 2px, dotted outline and blue in color
-- padding to be 50px
-- height to be 50px
-- width to be 500px
-- the element content of `<div>` will be "TEXT"
-
-## Part 2 - Multiple HTML Elements
-
-Create another `<div>` in index.html and give it an attribute id with value "div2". Write another CSS implementation with the correct selector in ./css/style.css with the following CSS properties:
-
-- implement the same properties for `.div1`
-- position the second `<div>` to right bottom corner of the screen.
+1. Fork and clone this repository
+2. Change into the new directory
+3. Create and checkout a new branch named `assignment`
+4. Follow the directions given in the [Study](https://github.com/skillsunion/css-box-model-and-positioning-study/study.md) page.
+5. When you are done, commit, push to your fork and submit a pull request
+6. Make sure to submit your pull request at least an hour before class.
