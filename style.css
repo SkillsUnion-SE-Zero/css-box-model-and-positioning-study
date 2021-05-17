@@ -1,0 +1,140 @@
+/*=============================== HEADER SECTION ====== */
+
+.inner {
+  height: 60px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: #48cae4;
+  background-color: #0077b6;
+  margin-top: 25px;
+  width: auto;
+  background-color: #0077b6;
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #48cae4;
+  margin-left: 10px;
+}
+
+.headerText {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 25px;
+  align-content: center;
+  position: relative;
+  margin-top: 10px;
+}
+
+#flex-container {
+  margin-top: 15px;
+  height: 700px;
+  width: auto;
+  border-width: 1.5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#flex-container > * {
+  flex: 1 1 1 80px;
+}
+.item1 {
+  width: 315px;
+  height: 350px;
+  border-color: #9bf6ff;
+  border-style: solid;
+  border-width: 1.5px;
+}
+
+.item2 {
+  width: 315px;
+  height: 350px;
+
+  border-color: #9bf6ff;
+  border-style: solid;
+  border-width: 1.5px;
+}
+.item3 {
+  width: 315px;
+  height: 350px;
+
+  border-color: #9bf6ff;
+  border-style: solid;
+  border-width: 1.5px;
+}
+
+.item4 {
+  width: 315px;
+  height: 350px;
+
+  border-color: #9bf6ff;
+  border-style: solid;
+  border-width: 1.5px;
+}
+
+.item5 {
+  width: 315px;
+  height: 350px;
+
+  border-color: #9bf6ff;
+  border-style: solid;
+  border-width: 1.5px;
+}
+
+.item6 {
+  width: 315px;
+  height: 350px;
+
+  border-color: #9bf6ff;
+  border-style: solid;
+  border-width: 1.5px;
+}
+.image1 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.image2 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.image3 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.image4 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.image5 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.image6 {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.itemTitle {
+  font-size: 15px;
+  font-weight: normal;
+  padding-left: 25px;
+}
+
+p {
+  padding-left: 25px;
+  font-size: 12px;
+  font-weight: normal;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+  padding-right: 10px;
+  display: block;
+  width: 250px;
+}
